@@ -1,10 +1,3 @@
-Shortest Path GUI App
-=====================
-
-A GUI based application , implemented in C# , using Dijkstra`s algorithm to perform the shortest path between 2 points. 
-
-The app gives the possibility to assign each path a value, then to select the points between you want to find the shortest path. You can reset the selected path and to automatically assign each empty path a big value(not to be taken in consideration).
-Moreover, the app is able to save and load all the values in a XML file.
-
-
-![alt tag](http://i.imgur.com/1Qv1eXP.png)
+The "Airways Management System" is a robust project developed in Visual Studio using the principles of Dijkstra's algorithm, Data Structures and Algorithms (DSA) with the C# programming language. This innovative system leverages real-time data to efficiently calculate the shortest distance between airports across Pakistan. Seamlessly integrating DSA concepts, the application optimizes air travel routes, providing a reliable solution for effective airway management in the region.The "Airways Management System" is a robust project developed in Visual Studio using the principles of Dijkstra's algorithm, Data Structures and Algorithms (DSA) with the C# programming language. This innovative system leverages real-time data to efficiently calculate the shortest distance between airports across Pakistan. Seamlessly integrating DSA concepts, the application optimizes air travel routes, providing a reliable solution for effective airway management in the region.
+API used: GMap.NET.Windows
+![Uploading image.png…]()
